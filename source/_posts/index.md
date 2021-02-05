@@ -58,7 +58,7 @@ categories:
 
 2. **参与内容建设**（不会用gitee（原：Github ）？也没问题！）
 
-   - 请将标准内容整理成markdown（.md）、Latex（.tex）、word（.docx）等任意可编辑形式，发送到[term@stdfirm.com](mailto:term@stdfirm.com)。
+   - 请将标准内容整理成markdown（.md）、Latex（.tex）、word（.docx）等任意可编辑形式，发送到[basestd@stdfirm.com](mailto: basestd@stdfirm.com)。
 
 3. **参与站点开发**
 
