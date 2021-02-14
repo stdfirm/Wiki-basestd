@@ -12,7 +12,7 @@ categories:
 
 ### 站点地址
 
-[http://basestd.stdfirm.com//](http://basestd.stdfirm.com/) 
+[http://basestd.stdfirm.com/](http://basestd.stdfirm.com/) 
 
 ### 设计思路
 
@@ -40,7 +40,13 @@ categories:
 
 ## 如何参与？
 
-### 贡献方式
+[标准化基础学习研究](http://basestd.stdfirm.com/) 的发展、繁荣、易用离不开每一个标准化er！
+
+无论您贡献了多少，哪怕只是错别字的修改，您的名字都将写到贡献者列表中。当然，~~您也可以选择深藏功名~~。
+
+我们采用git思维、基于国内领先的版本管理平台gitee，内容形成全过程留痕、贡献量全方位统计。
+
+对于本项目贡献量**前三十**的贡献者，我们将邀请加入**本项目共同发起者**；对于本项目贡献量**前十**的贡献者，我们将邀请加入**[stdfirm](http://www.stdfirm.com/)项目发起者**。
 
 ### 贡献方式
 
@@ -50,11 +56,12 @@ categories:
 
    **举例说明：**
 
-   1. 在 [标准化基础学习研究](http://basestd.stdfirm.com/) 上找到需要编辑的页面
-   2. 点击 正文右上方 **“edit”** （编辑此页）按钮
-   3. 稍等片刻，跳转到 gitee（原：Github ）上的对应页面，就可以在线编辑了
-   4. 编辑完毕，点下方的绿色按钮，可能会提示没有权限。不必担心！gitee（原：Github ）会自动帮你 fork 一份项目的文件并创建 Pull Request，到这里就完成编辑了。
-   5. 经过确认后，我们会合并到master中。
+   1. 在 [标准化基础学习研究](http://basestd.stdfirm.com/) 上找到需要编辑的页面；
+   2. 点击 正文右上方 **“edit”** （编辑此页）按钮；
+   3. 稍等片刻，跳转到 gitee（原：Github ）上的对应页面，就可以在线编辑了；
+   4. 编辑完毕，点下方的绿色按钮，可能会提示没有权限。不必担心！gitee（原：Github ）会自动帮你 fork 一份项目的文件并创建 Pull Request，到这里就完成编辑了；
+   5. 经过确认后，我们会合并到master中；
+   6. 您也可以根据研究领域增加新的页面，只需要先fork一份项目文件、增加路径和markdown页面文件，编辑完成后创建Pull Request。
 
 2. **参与内容建设**（不会用gitee（原：Github ）？也没问题！）
 
@@ -66,7 +73,11 @@ categories:
 
 ### 贡献者
 
-[小酌笔墨](http://www.blog.stdfirm.com/)、[HEXO](https://hexo.io/about/)、[zthxxx](https://github.com/zthxxx/hexo-theme-Wikitten)等。
+[小酌笔墨](http://www.blog.stdfirm.com/)等。
+
+### 致谢
+
+[HEXO](https://hexo.io/about/)、[zthxxx](https://github.com/zthxxx/hexo-theme-Wikitten)等。
 
 ---
 
